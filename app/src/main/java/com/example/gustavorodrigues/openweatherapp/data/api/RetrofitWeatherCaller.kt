@@ -1,0 +1,3 @@
+package com.example.gustavorodrigues.openweatherapp.data.api
+
+class RetrofitWeatherCaller
